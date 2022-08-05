@@ -1,2 +1,3 @@
 # webapp-mongodb-kubernetes
-Deploying a WebApp with MongoDb and Kubernetes 
+
+A fast webapp running Node and Mongo deployed with kubernetes.
